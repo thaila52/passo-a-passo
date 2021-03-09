@@ -1,0 +1,29 @@
+
+
+
+LGS43@DESKTOP-IF63RB2 MINGW64 /c/workspace/livro-receitas (master)
+$ git remote add origin https://github.com/thaila52/livro-receitas.git
+
+LGS43@DESKTOP-IF63RB2 MINGW64 /c/workspace/livro-receitas (master)
+$ git remote -v
+origin  https://github.com/thaila52/livro-receitas.git (fetch)
+origin  https://github.com/thaila52/livro-receitas.git (push)
+
+LGS43@DESKTOP-IF63RB2 MINGW64 /c/workspace/livro-receitas (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+LGS43@DESKTOP-IF63RB2 MINGW64 /c/workspace/livro-receitas (master)
+$ git push origin master
+Enumerating objects: 8, done.
+Counting objects: 100% (8/8), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (8/8), 837 bytes | 119.00 KiB/s, done.
+Total 8 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/thaila52/livro-receitas.git
+ * [new branch]      master -> master
+
+LGS43@DESKTOP-IF63RB2 MINGW64 /c/workspace/livro-receitas (master)
+$
